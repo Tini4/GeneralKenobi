@@ -1,5 +1,5 @@
 # GeneralKenobi
-Discord bot that welcomes people when joining voice.
+Discord bot that welcomes people when joining a voice channel
 
 ## Setup
 Create .env file:
